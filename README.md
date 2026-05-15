@@ -11,8 +11,7 @@ Apie įrankį
 
 Klasifikavimui naudojamas XGBoost algoritmas.
 
-## Rezultatai
-
+Rezultatai
 - Tikslumas testavimo aibėje: **87%**
 - Kryžminės patikros tikslumas: **81%**
 
