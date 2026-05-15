@@ -1,10 +1,8 @@
 
-# Kompleksinė teksto analizė dezinformacijai aptikti
-
+Kompleksinė teksto analizė dezinformacijai aptikti
 Magistro baigiamasis darbas — dezinformacijos aptikimo įrankis lietuvių kalba, integruojantis semantinę, emocinę ir stilistinę teksto analizę.
 
-## Apie įrankį
-
+Apie įrankį
 Įrankis klasifikuoja lietuviškus naujienų straipsnius į dvi klases: dezinformacija ir tiesa. Naudojami trys analizės komponentai:
 
 - **Semantinė analizė** — MiniLM daugiakalbiai sakinių įterpiniai (384 dimensijos)
